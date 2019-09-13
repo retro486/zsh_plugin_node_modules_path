@@ -16,4 +16,4 @@ Just perform a `node install` for an app so the node_modules/.bin directory gets
 
 ## Disclaimer
 
-This software is provided as-is under the BSD license. No guarantee or support is offered. Use at your own risk.
+This software is provided as-is under the MIT license. No guarantee or support is offered. Use at your own risk.
